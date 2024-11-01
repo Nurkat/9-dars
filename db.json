@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Komron",
+      "surname": "Nigmatov",
+      "age": "19"
+    },
+    {
+      "id": "98c3",
+      "name": "N",
+      "surname": "K",
+      "age": "19"
+    },
+    {
+      "id": "1936",
+      "name": "N",
+      "surname": "K",
+      "age": "19"
+    },
+    {
+      "id": "383e",
+      "name": "Nurkat",
+      "surname": "Koshmuratov",
+      "age": "19"
+    }
+  ]
+}
